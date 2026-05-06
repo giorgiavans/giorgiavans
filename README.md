@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 MSc in Artificial Intelligence <br>
-💻 Computer Vision & Deep Learning <br>
+🎓 BSc in Computer Engineering <br>
 📍 University of Florence
 </p>
 
@@ -54,7 +54,7 @@ PyTorch · TensorFlow · Hugging Face · OpenCV · Scikit-learn
 Python · SQL · C++ · JavaScript · HTML5 · CSS3 · Java  
 
 **Tools**  
-Git · Docker · MATLAB  
+Git/GitHub · Docker · MATLAB · Visual Studio Code · Anaconda · CLion · LaTeX
 
 ---
 
